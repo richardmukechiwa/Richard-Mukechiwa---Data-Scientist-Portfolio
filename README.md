@@ -5,7 +5,8 @@
 
 I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise in data analysis, machine learning, and deploying predictive models to solve real-world problems. With a strong foundation in Python, SQL, Power BI, and various machine learning frameworks, I create solutions that offer meaningful business insights. My portfolio showcases my journey through various data science projects that highlight my ability to handle diverse datasets and develop models that drive decision-making.
 
- Skills & Expertise
+## **Skills & Expertise**
+
 Data Analysis: Python (Pandas, NumPy), SQL, Power BI
 Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
 Machine Learning: Scikit-learn, XGBoost, TensorFlow, Keras
@@ -13,7 +14,9 @@ Data Engineering: SQL, ETL, Web Scraping
 Model Deployment: Streamlit, Flask, Dash
 Version Control & Collaboration: Git, GitHub, Jupyter Notebooks
 Cloud: AWS (S3, EC2), Google Cloud Platform (GCP)
-📈 Featured Projects
+
+## **Featured Projects**
+
 1. Employee Attrition Classification
 Goal: Developed a classification model to predict employee turnover and help organizations mitigate potential losses.
 Tools: Python, Scikit-learn, Random Forest, Streamlit, GitHub Actions
