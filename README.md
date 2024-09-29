@@ -7,13 +7,19 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 ## **Skills & Expertise**
 
-Data Analysis: Python (Pandas, NumPy), SQL, Power BI
-Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
-Machine Learning: Scikit-learn, XGBoost, TensorFlow, Keras
-Data Engineering: SQL, ETL, Web Scraping
-Model Deployment: Streamlit, Flask, Dash
-Version Control & Collaboration: Git, GitHub, Jupyter Notebooks
-Cloud: AWS (S3, EC2), Google Cloud Platform (GCP)
+**Data Analysis:** Python (Pandas, NumPy), SQL, Power BI
+
+**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
+
+**Machine Learning:** Scikit-learn, XGBoost, TensorFlow, Keras
+
+**Data Engineering:** SQL, ETL, Web Scraping
+
+**Model Deployment:** Streamlit, Flask, Dash
+
+**Version Control & Collaboration:** Git, GitHub, Jupyter Notebooks
+
+**Cloud: AWS (S3, EC2), Google Cloud Platform (GCP)**
 
 ## **Featured Projects**
 
