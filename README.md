@@ -1,10 +1,11 @@
 # ![Banner Image](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/RichardMukechiwa-DataScientistBuildingSolutionsthroughData-ezgif.com-video-to-gif-converter.gif)
 
 
-About Me
+## **About Me**
+
 I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise in data analysis, machine learning, and deploying predictive models to solve real-world problems. With a strong foundation in Python, SQL, Power BI, and various machine learning frameworks, I create solutions that offer meaningful business insights. My portfolio showcases my journey through various data science projects that highlight my ability to handle diverse datasets and develop models that drive decision-making.
 
-🚀 Skills & Expertise
+ Skills & Expertise
 Data Analysis: Python (Pandas, NumPy), SQL, Power BI
 Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
 Machine Learning: Scikit-learn, XGBoost, TensorFlow, Keras
