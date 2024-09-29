@@ -62,8 +62,6 @@ Feel free to explore my projects, and let's connect to discuss data science oppo
 
 “Solving business problems through data-driven insights.”
 
-This draft provides a professional overview of your skills, highlighted projects, and relevant links to help potential employers or collaborators easily explore your work. You can further enhance it by adding links, visuals, and personalized touches!
-
 
 
 
