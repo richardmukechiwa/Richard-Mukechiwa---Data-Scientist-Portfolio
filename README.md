@@ -30,26 +30,18 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 **Tools:** Python, XGBoost, Scikit-learn, GridSearchCV, Streamlit
 
 ##### **Key Highlights:**
-
-- Addressed class imbalance by using the scale_pos_weight parameter in XGBoost, with the ratio:
-
-  scale_pos_weight = len(y_train[y_train == 0]) / len(y_train[y_train == 1])
-
-- Optimized hyperparameters with GridSearchCV, achieving best parameters:
-
-_max_depth:_ 1
-
-_n_estimators:_ 100
-
-- Achieved an overall accuracy score of 80.0% after hyperparameter tuning, with the following performance metrics:
-
-| Label            | Precision | Recall | F1-Score | Support |
-|------------------|-----------|--------|----------|---------|
-| 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
-| 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
-| **Accuracy**     |           |        | **0.80**     |         |
-
-- Deployed on Streamlit for an interactive user interface to explore model predictions.
+- extracted the data from Kaggle
+- loaded the in Jupyter notebook  and performed data cleaning
+- performed Exploratory Data Analysis
+- performed data preprocessing with One hot encoder and Label encoder
+- splitted the data into training and testing fractions
+- trained  and tested the Logistic Regression algorithm
+- model evaluation
+- Achieved an overall accuracy score of 80.0% after hyperparameter tuning
+- trained and tested the xgboost algorithm
+- tuning parameters
+- performed feature selection
+- deployed on Streamlit for an interactive user interface to explore model predictions.
 
 
 
