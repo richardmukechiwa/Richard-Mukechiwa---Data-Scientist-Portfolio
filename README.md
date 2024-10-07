@@ -44,28 +44,27 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 - deployed on Streamlit for an interactive user interface to explore model predictions.
 
 
+### [Medical Charges Prediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression.git)
 
+**Goal:**  Built a Random Forest Regression model to predict medical charges based on patient demographic data.
 
-2. Medical Charges Prediction
-Goal: Built a Random Forest Regression model to predict medical charges based on patient demographic data.
-Tools: Python, Scikit-learn, Random Forest, Streamlit
+**Tools:**  Python, Scikit-learn, Random Forest, Streamlit
+
 Key Highlights: Leveraged feature engineering techniques to improve model accuracy; deployed model for web access.
-View Project
-3. E-commerce Customer Spending Prediction
-Goal: Created a predictive model to forecast customer spending for an e-commerce platform.
-Tools: Python, Scikit-learn, Regression Analysis
-Key Highlights: Comprehensive EDA and feature selection process; insights into customer behavior.
-View Project
-4. Smart Home Energy Consumption Forecasting
-Goal: Developed a predictive model to forecast energy consumption in smart homes.
-Tools: Python, Machine Learning, Time Series Analysis, Streamlit
-Key Highlights: Time series analysis with ARIMA; model deployed for user interaction.
-View Project
-5. Customer Segmentation and Analytics
-Goal: Analyzed customer data to segment the customer base and identify key spending patterns.
-Tools: Python, Clustering, Power BI, SQL
-Key Highlights: Visualized customer segments and spending patterns for marketing insights.
-View Project
+- extracted the data from Kaggle
+- loaded the in Jupyter notebook  and performed data cleaning
+- performed Exploratory Data Analysis
+- performed data preprocessing with One hot encoder and Label encoder
+- splitted the data into training and testing fractions
+- trained  and tested the Logistic Regression algorithm
+- model evaluation
+- Achieved an overall accuracy score of 80.0% after hyperparameter tuning
+- trained and tested the xgboost algorithm
+- tuning parameters
+- performed feature selection
+- deployed on Streamlit for an interactive user interface to explore model predictions.
+
+
 🌟 Data Science Certifications
 IBM Data Science Professional Certificate (Coursera)
 Feature Engineering (Kaggle)
