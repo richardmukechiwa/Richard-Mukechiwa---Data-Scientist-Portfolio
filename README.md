@@ -25,7 +25,7 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 #### **1. Customer Churn Prediction**
 
-![Customer Churn]()
+![Customer Churn](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/customerchurn.png)
    
 **Goal:** Built a predictive model to identify customers likely to churn, enabling the business to take proactive retention steps.
 
