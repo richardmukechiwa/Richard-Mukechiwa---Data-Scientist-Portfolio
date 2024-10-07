@@ -23,11 +23,36 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 ## **Featured Projects**
 
-1. Employee Attrition Classification
-Goal: Developed a classification model to predict employee turnover and help organizations mitigate potential losses.
-Tools: Python, Scikit-learn, Random Forest, Streamlit, GitHub Actions
-Key Highlights: Deployed using Streamlit; showcased feature importance analysis and model performance evaluation.
-View Project
+1. **Customer Churn Prediction**
+   
+**Goal:** Built a predictive model to identify customers likely to churn, enabling the business to take proactive retention steps.
+
+**Tools:** Python, XGBoost, Scikit-learn, GridSearchCV, Streamlit
+
+##### **Key Highlights:**
+
+- Addressed class imbalance by using the scale_pos_weight parameter in XGBoost, with the ratio:
+
+  scale_pos_weight = len(y_train[y_train == 0]) / len(y_train[y_train == 1])
+
+- Optimized hyperparameters with GridSearchCV, achieving best parameters:
+
+_max_depth:_ 1
+
+_n_estimators:_ 100
+
+- Achieved an overall accuracy score of 80.0%, with the following performance metrics:
+
+| Label            | Precision | Recall | F1-Score | Support |
+|------------------|-----------|--------|----------|---------|
+| 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
+| 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
+
+- Deployed on Streamlit for an interactive user interface to explore model predictions.
+
+View Project: [GitHub Repository Link]()
+
+
 2. Medical Charges Prediction
 Goal: Built a Random Forest Regression model to predict medical charges based on patient demographic data.
 Tools: Python, Scikit-learn, Random Forest, Streamlit
