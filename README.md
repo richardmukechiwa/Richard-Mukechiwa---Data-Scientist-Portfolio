@@ -47,6 +47,7 @@ _n_estimators:_ 100
 |------------------|-----------|--------|----------|---------|
 | 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
 | 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
+| **Accuracy**     |           |        |    0.77  |         |
 
 - Deployed on Streamlit for an interactive user interface to explore model predictions.
 
