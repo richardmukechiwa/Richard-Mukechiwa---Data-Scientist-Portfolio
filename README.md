@@ -50,7 +50,7 @@ _n_estimators:_ 100
 
 - Deployed on Streamlit for an interactive user interface to explore model predictions.
 
-View Project: [GitHub Repository Link]()
+View Project: [GitHub Repository Link](https://github.com/richardmukechiwa/Churn-Prediction-Classification-Model.git)
 
 
 2. Medical Charges Prediction
