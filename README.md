@@ -41,13 +41,13 @@ _max_depth:_ 1
 
 _n_estimators:_ 100
 
-- Achieved an overall accuracy score of 80.0%, with the following performance metrics:
+- Achieved an overall accuracy score of 80.0% after hyperparameter tuning, with the following performance metrics:
 
 | Label            | Precision | Recall | F1-Score | Support |
 |------------------|-----------|--------|----------|---------|
 | 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
 | 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
-| **Accuracy**     |           |        | **0.77**     |         |
+| **Accuracy**     |           |        | **0.80**     |         |
 
 - Deployed on Streamlit for an interactive user interface to explore model predictions.
 
