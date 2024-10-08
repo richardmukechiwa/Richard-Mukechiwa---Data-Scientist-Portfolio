@@ -65,7 +65,7 @@ Leveraged feature engineering techniques to improve model accuracy; deployed mod
 - performed feature selection
 - deployed on Streamlit for an interactive user interface to explore model predictions.
 
-  ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
+### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
 
 ### Data Science Certifications
