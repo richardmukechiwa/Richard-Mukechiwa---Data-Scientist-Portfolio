@@ -67,6 +67,8 @@ Leveraged feature engineering techniques to improve model accuracy; deployed mod
 
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
+### [Sales Uplift Analysis]()
+
 
 ### Data Science Certifications
 
