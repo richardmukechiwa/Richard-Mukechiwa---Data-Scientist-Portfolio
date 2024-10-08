@@ -65,16 +65,22 @@ Key Highlights: Leveraged feature engineering techniques to improve model accura
 - deployed on Streamlit for an interactive user interface to explore model predictions.
 
 
-🌟 Data Science Certifications
+### Data Science Certifications
+
 IBM Data Science Professional Certificate (Coursera)
-Feature Engineering (Kaggle)
-Machine Learning (Kaggle)
-Python for Data Science and AI (Coursera)
-📫 Connect With Me
-LinkedIn: Richard Mukechiwa
+
+World Quant Data Science Lab
+
+
+
+**Connect With Me**
+
+LinkedIn: https://www.linkedin.com/in/richardmukechiwa/
+
 Email: mukechiwarichard@gmail.com
-GitHub: RICH-FILES
-Twitter: @rich_data_science <!-- Optional -->
+
+GitHub: 
+
 Feel free to explore my projects, and let's connect to discuss data science opportunities or collaborations!
 
 “Solving business problems through data-driven insights.”
