@@ -50,7 +50,8 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 **Tools:**  Python, Scikit-learn, Random Forest, Streamlit
 
-Key Highlights: Leveraged feature engineering techniques to improve model accuracy; deployed model for web access.
+##### Key Highlights:
+Leveraged feature engineering techniques to improve model accuracy; deployed model for web access.
 - extracted the data from Kaggle
 - loaded the in Jupyter notebook  and performed data cleaning
 - performed Exploratory Data Analysis
@@ -79,7 +80,7 @@ LinkedIn: https://www.linkedin.com/in/richardmukechiwa/
 
 Email: mukechiwarichard@gmail.com
 
-GitHub: 
+GitHub: https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio.git
 
 Feel free to explore my projects, and let's connect to discuss data science opportunities or collaborations!
 
