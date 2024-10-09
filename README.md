@@ -69,6 +69,8 @@ Leveraged feature engineering techniques to improve model accuracy; deployed mod
 
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
 
+### [Time Series Forecasting](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series)
+
 
 ### Data Science Certifications
 
