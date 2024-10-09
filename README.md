@@ -71,11 +71,11 @@ Leveraged feature engineering techniques to improve model accuracy; deployed mod
 
 ### [Sales Forecasting](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series)
 
-###### **Overview**
+#### Overview
 
 The Sales Forecasting Project utilizes advanced time series analysis techniques—ARIMA and Prophet—to accurately predict weekly sales based on historical data. By analyzing key variables, we provide valuable insights into sales trends and seasonal patterns, empowering businesses to optimize inventory and enhance decision-making.
 
-###### **Key Highlights**
+#### Key Highlights
 
 **Models Used:** ARIMA and Prophet for robust sales forecasting.
 
