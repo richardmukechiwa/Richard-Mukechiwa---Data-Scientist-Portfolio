@@ -48,7 +48,7 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 #### Overview
 
-- The Medical Charges Prediction project leverages Random Forest Regression to predict medical expenses based on patient demographics and lifestyle factors, such as age, BMI, smoking habits, and region.
+The Medical Charges Prediction project leverages Random Forest Regression to predict medical expenses based on patient demographics and lifestyle factors, such as age, BMI, smoking habits, and region.
 
 #### Objective
 
