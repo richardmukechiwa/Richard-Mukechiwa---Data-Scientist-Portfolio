@@ -77,6 +77,7 @@ This predictive model aids medical insurance companies in estimating patient cos
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
+### [A/B Testing]()
 
 ### [Sales Forecasting](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series)
 
