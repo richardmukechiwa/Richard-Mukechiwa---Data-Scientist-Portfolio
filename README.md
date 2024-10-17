@@ -30,35 +30,7 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 **Tools:** Python, XGBoost, Scikit-learn, GridSearchCV, Streamlit
 
 
-### [Medical Charges Prediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression.git)
 
-#### Overview
-
-The Medical Charges Prediction project leverages Random Forest Regression to predict medical expenses based on patient demographics and lifestyle factors, such as age, BMI, smoking habits, and region.
-
-#### Objective
-
-This predictive model aids medical insurance companies in estimating patient costs, allowing for better resource allocation and cost management.
-
-#### Key Features
-
-**Data Source:** Kaggle Insurance Dataset
-
-**Model Accuracy:** R-squared of 0.93; captures 93% of variance in medical charges.
-
-**User-Friendly App:** Deployed App where users input demographics to receive cost predictions.
-
-#### Highlights
-
-**Key Variables:** Age, BMI, smoking status, and region are crucial in predicting charges.
-
-**Feature Importance:** Identified smoking habits, age, and BMI as the most influential factors.
-
-### Future Enhancements:  
-
-- Plan to integrate additional lifestyle factors and improve user interface.
-
-**Tools:**  Python, Scikit-learn, Random Forest, Streamlit
 
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
