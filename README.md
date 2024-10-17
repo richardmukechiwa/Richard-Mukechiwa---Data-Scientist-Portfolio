@@ -25,16 +25,11 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 ### [Customer Churn Prediction](https://github.com/richardmukechiwa/Churn-Prediction-Classification-Model.git)
    
-**Goal:** Built a predictive model to identify customers likely to churn, enabling the business to take proactive retention steps.
-
-**Tools:** Python, XGBoost, Scikit-learn, GridSearchCV, Streamlit
-
-
-
+**Objective:** Built a predictive model to identify customers likely to churn, enabling the business to take proactive retention steps.
 
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
-## Objectives
+**Objectives**
 
 - Segment customers into groups based on their Income and Total Purchase Amount.
 - Analyze and visualize customer behavior patterns within each segment.
@@ -43,18 +38,16 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
 
-## Objectives
+**Objectives**
 
-This project showcases a causal impact analysis performed on a dataset with features such as `revenue`, `quantity`, and `unit_price`. The goal was to assess the impact of an intervention on these variables.
-
-## Project Overview
+- This project showcases a causal impact analysis performed on a dataset with features such as `revenue`, `quantity`, and `unit_price`. The goal was to assess the impact of an intervention on these variables.
 
 - used the `CausalImpact` package to estimate the effect of an intervention on `revenue`.
 
 
 ### [A/B Testing](https://github.com/richardmukechiwa/A-B-Testing-Project.git)
 
-### Overview:
+**Objectives**
 
 This project examines how two game versions, gate_30 and gate_40, influence player retention and the total number of game rounds played. The goal is to determine whether the new version (gate_40) leads to higher retention and increased gameplay.
 
@@ -65,17 +58,14 @@ This project examines how two game versions, gate_30 and gate_40, influence play
 
 ### [Sales Forecasting](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series)
 
-#### Overview
+**Overview**
 
 The Sales Forecasting Project utilizes advanced time series analysis techniques—ARIMA and Prophet—to accurately predict weekly sales based on historical data. By analyzing key variables, we provide valuable insights into sales trends and seasonal patterns, empowering businesses to optimize inventory and enhance decision-making.
 
-#### Key Highlights
+**Key Highlights**
 
 **Models Used:** ARIMA and Prophet for robust sales forecasting.
 
-**Data Insights:** Identify trends and seasonal effects to inform strategy.
-
-**Impact:** Improve inventory management and financial planning.
 
 
 ### Data Science Certifications
