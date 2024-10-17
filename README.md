@@ -79,6 +79,15 @@ This predictive model aids medical insurance companies in estimating patient cos
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
 ### [A/B Testing](https://github.com/richardmukechiwa/A-B-Testing-Project.git)
 
+### Overview:
+
+This project examines how two game versions, gate_30 and gate_40, influence player retention and the total number of game rounds played. The goal is to determine whether the new version (gate_40) leads to higher retention and increased gameplay.
+
+### Key Results:
+- Day 1 Retention: No significant difference (p = 0.062).
+- Day 7 Retention: Significant improvement with gate_40 (p = 0.00083).
+- Game Rounds Played: No significant difference between the two versions (p = 0.405).
+
 ### [Sales Forecasting](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series)
 
 #### Overview
