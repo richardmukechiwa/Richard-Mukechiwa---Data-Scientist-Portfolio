@@ -29,20 +29,6 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 **Tools:** Python, XGBoost, Scikit-learn, GridSearchCV, Streamlit
 
-##### **Key Highlights:**
-- extracted the data from Kaggle
-- loaded the in Jupyter notebook  and performed data cleaning
-- performed Exploratory Data Analysis
-- performed data preprocessing with One hot encoder and Label encoder
-- splitted the data into training and testing fractions
-- trained  and tested the Logistic Regression algorithm
-- model evaluation
-- Achieved an overall accuracy score of 80.0% after hyperparameter tuning
-- trained and tested the xgboost algorithm
-- tuning parameters
-- performed feature selection
-- deployed on Streamlit for an interactive user interface to explore model predictions.
-
 
 ### [Medical Charges Prediction](https://github.com/richardmukechiwa/Medical_Charges-Prediction-Random-Forest-Regression.git)
 
@@ -76,7 +62,10 @@ This predictive model aids medical insurance companies in estimating patient cos
 
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
+
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
+
+
 ### [A/B Testing](https://github.com/richardmukechiwa/A-B-Testing-Project.git)
 
 ### Overview:
