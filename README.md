@@ -34,8 +34,22 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 ### [Customer Segmentation](https://github.com/richardmukechiwa/Customer-Segmentation.git)
 
+## Objectives
+
+- Segment customers into groups based on their Income and Total Purchase Amount.
+- Analyze and visualize customer behavior patterns within each segment.
+- Provide actionable insights to help businesses focus on customer needs, improve services, and optimize resource allocation.
+
 
 ### [Sales Uplift Analysis](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis.git)
+
+## Objectives
+
+This project showcases a causal impact analysis performed on a dataset with features such as `revenue`, `quantity`, and `unit_price`. The goal was to assess the impact of an intervention on these variables.
+
+## Project Overview
+
+- used the `CausalImpact` package to estimate the effect of an intervention on `revenue`.
 
 
 ### [A/B Testing](https://github.com/richardmukechiwa/A-B-Testing-Project.git)
