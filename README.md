@@ -63,6 +63,13 @@ The Sales Forecasting Project utilizes advanced time series analysis techniquesâ
 
 **Models Used:** ARIMA and Prophet for robust sales forecasting.
 
+### [Sentiment Analysis](https://github.com/richardmukechiwa/NLP-Sentiment-Analysis.git)
+
+**Overview**
+
+Analyzed hotel customer reviews using sentiment analysis to extract insights. The project involved data preprocessing, EDA, and word cloud visualizations for positive and negative sentiments. Key findings revealed strengths in location and staff but highlighted room quality issues, leading to actionable recommendations for improvement.
+
+**Tools Used**  Python, Text blob, Nltk
 
 
 ### Data Science Certifications
