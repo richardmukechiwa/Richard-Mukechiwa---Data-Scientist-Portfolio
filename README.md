@@ -10,7 +10,7 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
 
-**Machine Learning:** Scikit-learn, XGBoost
+**Machine Learning:** Scikit-learn, XGBoost, Logistic Regression, Prophet, ARIMA, Linear Regression
 
 **Data Engineering:** SQL, ETL, Web Scraping
 
