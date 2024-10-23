@@ -1,4 +1,4 @@
-![banner](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+! [banner](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 ## **About Me**
 
@@ -88,7 +88,7 @@ LinkedIn: https://www.linkedin.com/in/richardmukechiwa/
 
 Email: mukechiwarichard@gmail.com
 
-GitHub: https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio.git
+
 
 Feel free to explore my projects, and let's connect to discuss data science opportunities or collaborations!
 
