@@ -73,6 +73,21 @@ Analyzed hotel customer reviews using sentiment analysis to extract insights. Th
 
 **Tools Used**  Python, Text blob, Nltk
 
+###[Sales Data Analysis with Microsoft SQL Server](https://github.com/richardmukechiwa/Sales-Data-Analysis-with-Microsoft-SQL-Server.git)
+
+**Overview**
+
+This project involves advanced SQL analysis on a sample sales dataset, aiming to answer key business questions related to product performance, revenue trends, and category comparisons. Through a series of SQL queries, the analysis uncovers insights such as:
+
+- Top Revenue-Generating Products: Identifying which products contribute the most to total revenue.
+  
+- Sales Trends: Examining day-over-day revenue growth and seasonal sales trends.
+  
+- Category Comparisons: Analyzing performance differences between Electronics and Clothing categories.
+  
+- Product Demand Analysis: Evaluating unit sales to understand customer demand across various products.
+
+**Tools Used** Microsoft SQL server 
 
 ### Data Science Certifications
 
