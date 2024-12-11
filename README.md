@@ -75,6 +75,14 @@ Analyzed hotel customer reviews using sentiment analysis to extract insights. Th
 
 ### [Sentiment Analysis with BERT](https://github.com/richardmukechiwa/Sentiment-Analysis-with-BERT/blob/main/SentimentAnalysisBERT.ipynb)
 
+#### Project Overview
+
+This project explores sentiment analysis using a pre-trained BERT model (nlptown/bert-base-multilingual-uncased-sentiment) to classify textual data into sentiment categories and implements a robust pipeline for analyzing textual reviews:
+
+**Model:** Pre-trained BERT from Hugging Face.
+**Objective:** Classify sentiment in customer reviews.
+**Tools:** Python, Transformers, BeautifulSoup, and Pandas.
+
 ### [Sales Data Analysis with Microsoft SQL Server](https://github.com/richardmukechiwa/Sales-Data-Analysis-with-Microsoft-SQL-Server.git)
 
 **Overview**
