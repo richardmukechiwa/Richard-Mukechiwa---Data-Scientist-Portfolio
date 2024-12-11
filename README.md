@@ -73,7 +73,7 @@ Analyzed hotel customer reviews using sentiment analysis to extract insights. Th
 
 **Tools Used**  Python, Text blob, Nltk
 
-###[Sentiment Analysis](https://github.com/richardmukechiwa/Sentiment-Analysis-with-BERT/blob/main/SentimentAnalysisBERT.ipynb)
+### [Sentiment Analysis with BERT](https://github.com/richardmukechiwa/Sentiment-Analysis-with-BERT/blob/main/SentimentAnalysisBERT.ipynb)
 
 ### [Sales Data Analysis with Microsoft SQL Server](https://github.com/richardmukechiwa/Sales-Data-Analysis-with-Microsoft-SQL-Server.git)
 
